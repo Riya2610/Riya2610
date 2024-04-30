@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is RIYA</p>
+<p align="left">My name is RIYA KUMARI </p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ <br>📚 .<br>🎯 <br>🎲.</p>
+<p align="left">✨ MBA-IT Student <br>📚 Data Analyst  
 
 
 
